@@ -1,0 +1,19 @@
+{
+  "name": "scfly",
+  "version": "1.0.0",
+  "description": "Supply Chain Management With Blockchain",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "eslint": "^5.5.0",
+    "openzeppelin-solidity": "^1.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "muktadiur",
+  "license": "ISC"
+}
